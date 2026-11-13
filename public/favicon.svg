@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="denticareGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284c7"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <!-- Tooth shape -->
+  <path d="M32 4C23 4 16 9 14 17C12 24 13 32 15 39C17 46 20 58 25 59C29 60 30 52 32 47C34 52 35 60 39 59C44 58 47 46 49 39C51 32 52 24 50 17C48 9 41 4 32 4Z" fill="url(#denticareGrad)"/>
+  <!-- Highlight / sparkle glow -->
+  <path d="M22 14C27 12 37 12 42 14C45 15.2 46.8 19 46 23C44.5 17 38 15 32 15.5C26 16 20 18 18 23C17.2 19 19 15.2 22 14Z" fill="white" fill-opacity="0.6"/>
+  <!-- Sparkle star -->
+  <path d="M46 8L47.5 12.5L52 14L47.5 15.5L46 20L44.5 15.5L40 14L44.5 12.5L46 8Z" fill="#38bdf8"/>
+</svg>
